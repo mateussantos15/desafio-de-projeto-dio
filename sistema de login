@@ -1,0 +1,21 @@
+public class login {
+	private String nomeLogin;
+	private String senha;
+	
+	public login{
+	
+	}
+	
+	public void setNomeLogina(String nomeLogin) {
+		this.nomeLogin = nomeLogin;
+	}
+	
+	public String getNomeLogin {
+		return nomeLogin;
+	}
+	
+	public String getSenha {
+		return senha;
+	}
+
+}
